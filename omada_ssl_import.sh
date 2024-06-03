@@ -21,7 +21,7 @@
 # and be back online immediately.
 
 # CONFIGURATION OPTIONS
-OMADA_HOSTNAME=omada-new.randrconnectivity.com
+OMADA_HOSTNAME=omada.domain.com
 OMADA_SERVICE=omada
 
 # Default Locations on Linux
